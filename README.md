@@ -13,10 +13,9 @@ Add the current track to playlists and more.
 [More info](https://henrikssonbrothers.com/cydia/repo/depictions/?p=se.nosskirneh.apace3). Beta release available on [my own repo](https://henrikssonbrothers.com/cydia/repo).
 
 
-
 ## Apace 2 – Short description
 *Compatible iOS 11*
 
 Add the current track to playlists and more.
 
-[More info](https://repo.packix.com/package/se.nosskirneh.apace2/) Available on the [Packix repo](https://repo.packix.com).
+[More info](https://repo.packix.com/package/se.nosskirneh.apace2/). Available on the [Packix repo](https://repo.packix.com).
